@@ -1,0 +1,15 @@
+
+Cynbit - Public Contact Summary
+
+Source: https://www.cynbit.in/contact
+
+Cynbit has a public contact page for enquiries about
+its services, custom AI agents, LLM integrations,
+and automated workflows.
+
+For current contact information, visit:
+
+https://www.cynbit.in/contact
+
+This prototype directs users to the official page
+instead of duplicating contact information that may change.

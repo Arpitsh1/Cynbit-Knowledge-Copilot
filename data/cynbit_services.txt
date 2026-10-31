@@ -1,0 +1,23 @@
+
+Cynbit - Public Services Summary
+
+Source: https://www.cynbit.in/services
+
+Cynbit describes services in AI and software development.
+
+Publicly described areas include:
+
+1. Autonomous AI agents.
+2. LLM automation for data entry and document handling.
+3. AI voice agents.
+4. AI technology stack integration.
+5. Full-stack software development.
+6. Cloud solutions.
+7. Legacy software migration.
+8. Marketing and CRM automation.
+
+The public services page lists technologies such as Python,
+FastAPI, Django, PyTorch, TensorFlow, Pinecone, and Spark.
+
+This is a manually prepared summary for an assessment
+prototype. It is not a complete service catalogue.

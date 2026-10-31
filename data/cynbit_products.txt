@@ -1,0 +1,21 @@
+
+Cynbit - Public Products Summary
+
+Source: https://www.cynbit.in/
+
+Cynbit's public website describes a SaaS ecosystem.
+
+Products and initiatives mentioned include:
+
+1. Cynbit Studio.
+2. Revio AI Review Assistant.
+3. TenantEase.
+
+Revio is described as an AI review assistant.
+
+The website also discusses autonomous agents and
+custom software.
+
+This document is a short summary of public website
+descriptions. It does not represent complete product
+documentation.
